@@ -71,7 +71,7 @@ for n in range(N):
 	plt.plot(taus, corr[n,:])
 
 # Valor teórico de correlación
-Rxx = 22.5 * np.cos(Omega*t+Z) * np.cos(Omega*(t+taus)+Z)
+Rxx = 25.2 * np.cos(Omega*t+Z) * np.cos(Omega*(t+taus)+Z)
 print ("Valor teórico de la correlación Rxx: ")
 print(Rxx)
 
