@@ -10,7 +10,7 @@
 
 # `P4` - *Modulación digital IQ*
 En este repositorio se desarrolla el proyecto 4 correspondiente a la modulación digital de imágenes.
-# `L-4`
+# `L4`
 En este repositoriotambién se presenta el laboratorio 4 del curso Modelos Probabilísticos de Señales y Sistemas II-2021 <br />
 * Estudiante: Juan Ignacio Montealegre Salazar <br />
 * Carné: B95001
